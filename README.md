@@ -149,10 +149,3 @@ The figure below shows the final model loss and validation loss development over
   <img src="./results/training_validation_loss.png" width="480">
 </p> 
 
-## Results
-
-The resulting [video](./results/video.mp4) is in the repo, if you are interested. 
-
-## Literature
-
-[End to End Learning for Self-Driving Cars](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
